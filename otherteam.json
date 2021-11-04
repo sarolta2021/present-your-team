@@ -1,5 +1,7 @@
 [
   {
+    "person11":
+    {
     "name": "Buzinszki Cintia",
     "email": "buzinszki.cintia@gmail.com",
     "hobby": "digital art",
@@ -12,6 +14,7 @@
     "best holiday" : "Christmas",
     "biggest fear" : "spiders"
     },
+    "person22":
     {
     "name": "Csejk Dóra",
     "email": "csejkdóra@gmail.com",
@@ -24,8 +27,9 @@
     "motto": "Üresen állok, mindennek háttal",
     "best holiday" : "Birthday",
     "biggest fear" : "Death"
-  },
-  {
+    },
+    "person33":
+    {
     "name": "Solymosi Szabolcs",
     "email": "solymosiszabi@gmail.com",
     "hobby": "too much things",
@@ -37,5 +41,6 @@
     "motto": "badaboom badabaam, you pu$$y smells like ham",
     "best holiday" : "Christmas",
     "biggest fear" : "dont have one"
+    }
   }
 ] 
