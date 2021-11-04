@@ -1,46 +1,41 @@
 [
   {
-    "person11":
-    {
-    "name": "Buzinszki Cintia",
-    "email": "buzinszki.cintia@gmail.com",
-    "hobby": "digital art",
-    "open person": true,
-    "cleaning score": 8,
-    "good-friend": true,
-    "drink": "yep",
-    "location" : "Budapest",
-    "motto": "Ami nem öl meg, az megerősít!",
-    "best holiday" : "Christmas",
-    "biggest fear" : "spiders"
-    },
-    "person22":
-    {
-    "name": "Csejk Dóra",
-    "email": "csejkdóra@gmail.com",
-    "hobby": "Kirándulás",
-    "open person": true,
-    "cleaning score": 8,
-    "good-friend": true,
-    "drink": "nope",
-    "location" : "Délegyháza",
-    "motto": "Üresen állok, mindennek háttal",
-    "best holiday" : "Birthday",
-    "biggest fear" : "Death"
-    },
-    "person33":
-    {
-    "name": "Solymosi Szabolcs",
-    "email": "solymosiszabi@gmail.com",
-    "hobby": "too much things",
-    "open person": true,
-    "cleaning score": -100,
-    "good-friend": true,
-    "drink": "nope",
-    "location" : "Pest megye",
-    "motto": "badaboom badabaam, you pu$$y smells like ham",
-    "best holiday" : "Christmas",
-    "biggest fear" : "dont have one"
-    }
+  "name": "Buzinszki Cintia",
+  "email": "buzinszki.cintia@gmail.com",
+  "hobby": "digital art",
+  "openperson": true,
+  "cleaning score": 8,
+  "goodfriend": true,
+  "drink": "yep",
+  "location" : "Budapest",
+  "motto": "Ami nem öl meg, az megerősít!",
+  "bestholiday" : "Christmas",
+  "biggestfear" : "spiders"
+  },
+  {
+  "name": "Csejk Dóra",
+  "email": "csejkdóra@gmail.com",
+  "hobby": "Kirándulás",
+  "openperson": true,
+  "cleaning score": 8,
+  "goodfriend": true,
+  "drink": "nope",
+  "location" : "Délegyháza",
+  "motto": "Üresen állok, mindennek háttal",
+  "bestholiday" : "Birthday",
+  "biggestfear" : "Death"
+  },
+  {
+  "name": "Solymosi Szabolcs",
+  "email": "solymosiszabi@gmail.com",
+  "hobby": "too much things",
+  "openperson": true,
+  "cleaning score": -100,
+  "goodfriend": true,
+  "drink": "nope",
+  "location" : "Pest megye",
+  "motto": "badaboom badabaam, you pu$$y smells like ham",
+  "bestholiday" : "Christmas",
+  "biggestfear" : "dont have one"
   }
 ] 
