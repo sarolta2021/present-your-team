@@ -1,23 +1,20 @@
 function loadFirstTeam() {
     fetch('fantasticfour.json')
         .then(r => r.json())
-        .then(displayData);
+        .then(displayPeoples);
 }
-//To Be implemented later
-//function loadSecondTeam() {
-    //fetch('otherteam.json')
-        //.then(r => r.json())
-        //.then(displaySecondData);
-//}
 
-function displayData(firstteam) {
-    let name = document.createElement('h1');
-    let email = document.createElement('div');
+function displayPeoples(peoples) {
+    displayPeople(peoples[0]);
+}
+
+function displayPeople(people) {
+    let name = document.createElement("h1");
+    let email = document.createElement("div");
+    name.innerText = people.name;
     let box = document.createElement("div");
-    name.innerText = personname.name;
-    email.innerText = personmail.email;
     box.append(name, email);
-    document.getElementById("teams").append(box);
+    document.getElementById("people").append(box);
 }
 
 window.addEventListener('load', loadFirstTeam);
