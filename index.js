@@ -3,14 +3,13 @@ function loadFirstTeam() {
         .then(r => r.json())
         .then(displayData);
 }
-
-function loadSecondTeam() {
-    fetch('otherteam.json')
-        .then(r => r.json())
-        .then(displaySecondData);
-}
+//To Be implemented later
+//function loadSecondTeam() {
+    //fetch('otherteam.json')
+        //.then(r => r.json())
+        //.then(displaySecondData);
+//}
 
 function displayData(firstteam) {
-    let name = document.createElement("h1");
-    let 
+
 }
