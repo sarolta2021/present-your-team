@@ -1,67 +1,41 @@
 [
+  {
+    "name": "Buzinszki Cintia",
+    "email": "buzinszki.cintia@gmail.com",
+    "hobby": "digital art",
+    "open person": true,
+    "cleaning score": 8,
+    "good-friend": true,
+    "drink": "yep",
+    "location" : "Budapest",
+    "motto": "Ami nem öl meg, az megerősít!",
+    "best holiday" : "Christmas",
+    "biggest fear" : "spiders"
+    },
     {
-      "version":1,
-      "title": "Fantastic four",
-      "home_page_url": "https://www.marvel.com/teams-and-groups/fantastic-four",
-      "description": "First team project.",
-      "person1":
-      {
-        "name": "",
-        "email": "",
-        "hobby": "",
-        "open person": ,
-        "cleaning score": ,
-        "good-friend": ,
-        "drink": "",
-        "location" : "",
-        "motto": "",
-        "best holiday" : "",
-        "biggest fear" : ""
-      },
-      "person2":
-      {
-        "name": "",
-        "email": "",
-        "hobby": "",
-        "open person": ,
-        "cleaning score": ,
-        "good-friend": ,
-        "drink": "",
-        "location" : "",
-        "motto": "",
-        "best holiday" : "",
-        "biggest fear" : ""
-      },
-      "person3":
-      {
-        "name": "",
-        "email": "",
-        "hobby": "",
-        "open person": ,
-        "cleaning score": ,
-        "good-friend": ,
-        "drink": "",
-        "location" : "",
-        "motto": "",
-        "best holiday" : "",
-        "biggest fear" : ""
-      },
-      "person4":
-      {
-        "name": "",
-        "email": "",
-        "hobby": "",
-        "open person": ,
-        "cleaning score": ,
-        "good-friend": ,
-        "drink": "",
-        "location" : "",
-        "motto": "",
-        "best holiday" : "",
-        "biggest fear" : ""
-      }
-    }
-  ]
-      
-            
-  
+    "name": "Csejk Dóra",
+    "email": "csejkdóra@gmail.com",
+    "hobby": "Kirándulás",
+    "open person": true,
+    "cleaning score": 8,
+    "good-friend": true,
+    "drink": "nope",
+    "location" : "Délegyháza",
+    "motto": "Üresen állok, mindennek háttal",
+    "best holiday" : "Birthday",
+    "biggest fear" : "Death"
+  },
+  {
+    "name": "Solymosi Szabolcs",
+    "email": "solymosiszabi@gmail.com",
+    "hobby": "too much things",
+    "open person": true,
+    "cleaning score": -100,
+    "good-friend": true,
+    "drink": "nope",
+    "location" : "Pest megye",
+    "motto": "badaboom badabaam, you pu$$y smells like ham",
+    "best holiday" : "Christmas",
+    "biggest fear" : "dont have one"
+  }
+] 

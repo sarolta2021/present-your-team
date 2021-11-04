@@ -6,8 +6,8 @@
     "description": "First team project.",
     "person1":
     {
-      "name": "Brigitta",
-      "email": "bbb",
+      "name": "Brigi",
+      "email": "turczerb@gmail.com",
       "hobby": "kettlebell",
       "open person": true,
       "cleaning score": 8,
@@ -15,7 +15,7 @@
       "drink": "wine",
       "location" : "Budapest",
       "motto": "Inkább sírjon valaki a vállamon, minthogy költöztesem",
-      "best holiday" : "Milano",
+      "best holiday" : "Malta",
       "biggest fear" : "gluten"
     },
     "person2":
